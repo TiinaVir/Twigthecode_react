@@ -9,7 +9,7 @@ The main idea was to create game using React.
 Workshop was fun and the game did work :).
 I Try to continue with this work, maybe some css and finishing the game. 
 
-![kuva](https://github.com/TiinaVir/Twigthecode_react/blob/master/tunnelmakuva.png)
+![kuva](https://github.com/TiinaVir/Twigthecode_react/blob/master/tunnelmakuva1.png)
 
 Feel free to comment or copy.
 
